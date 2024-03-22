@@ -1,2 +1,3 @@
 # JImPy
-Using Python to create Jira issues
+Using Python to import Jira issues from CSV
+JImPy = Jira Import Python
